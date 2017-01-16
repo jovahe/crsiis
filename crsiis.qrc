@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/CRSIIS">
+        <file>Resources/Project.ico</file>
+        <file>scrslogo.png</file>
+    </qresource>
+</RCC>
